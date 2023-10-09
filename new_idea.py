@@ -92,20 +92,3 @@ def add_999_to_var2():
     print("Total:", var2)
 
 
-
-
-asyncio.run(gui())
-
-
-
-
-
-'''
-heres the vision:
-user selects number of accounts they have
-creates vars named acc1 acc2 acc3 acc4
-user types into the cmd prompt the acc they are editing
-then they type the amount added, ex: +999
-they can type view and it shoes
-acc1: 4 stacks (num/999)
-'''
